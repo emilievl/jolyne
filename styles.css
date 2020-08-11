@@ -1,0 +1,21 @@
+body {background-color: black;}
+
+h1 {background-color: black;
+  color: white;
+  font-size: 100px}
+p {background-color: black;
+  color: white;}
+
+img:hover {
+  background-color: gold;
+}
+
+.jolyne {
+  background-color: green;
+}
+
+ hr {border-style: none;
+    border-top-style: dotted;
+    border-color: violet;
+    border-width: 10px;
+    width: 5%;}
